@@ -1,0 +1,1 @@
+# typesafe-graphql-1
